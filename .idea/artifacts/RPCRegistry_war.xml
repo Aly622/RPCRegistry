@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RPCRegistry:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RPCRegistry.war">
+      <element id="artifact" artifact-name="RPCRegistry:war exploded" />
+    </root>
+  </artifact>
+</component>
